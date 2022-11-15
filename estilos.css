@@ -9,6 +9,7 @@ html {
   background-size: cover;
   background-color: #b8b8b8;
   font-family: open-sans, sans-serif;
+  scroll-behavior: smooth;
 }
 
 h1,
